@@ -623,7 +623,7 @@ section #section-head{
   padding-top : 0;
   background-color: rgb(5, 5, 5);
   color : white;
-  background-image: url(/images/stars.png), url(/images/stars.png);
+  background-image: url(./images/stars.png), url(./images/stars.png);
   background-size: 572px 100%;
   background-position: center;
   background-repeat: repeat;
@@ -740,7 +740,7 @@ hr {
 .newsletter{
     padding : 60px 0px;
     text-align: center;
-    background-image: url('/images/wallpapers/4.jpg');
+    background-image: url('./images/wallpapers/4.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
     /* border-bottom: 5px solid var(--light-gray); */
@@ -839,6 +839,7 @@ hr {
     /* background-color: black;
     color : white;
     padding : 50px 0; */
+    background-image: url('./images/background.png');
 }
 .reviews .card{
     height : auto;
@@ -1325,7 +1326,7 @@ input::placeholder, textarea::placeholder{
 
   /* Review Cards */
   .reviews .heading{
-    background-color: var(--yellow);
+    /* background-color: var(--yellow); */
     width: fit-content;
     padding : 8px 25px !important;
     margin  :auto;
