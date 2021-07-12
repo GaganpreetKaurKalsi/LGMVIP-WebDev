@@ -28,7 +28,7 @@ This is my first task as a web development intern at the LGMVIP( Lets Grow More 
 
 ## 📌 Features
 
-### Main Carousel
+### ⭐ Main Carousel
 The width of the images in the carousel are based on the width of the screen. The images auto adjusts themselves accordingly.
 
 https://user-images.githubusercontent.com/54144759/125277942-bdaafd80-e32f-11eb-82e5-d80a954a29e9.mp4
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/54144759/125277942-bdaafd80-e32f-11eb-
 
 <hr>
 
-### Image Frames
+### ⭐ Image Frames
 The 3 images overlap differently based on the screen size. When you hover on any, it zooms in and comes to the front.
 
 https://user-images.githubusercontent.com/54144759/125284675-63159f80-e337-11eb-930d-e25b291bd0d9.mp4
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/54144759/125284675-63159f80-e337-11eb-
 <hr>
 
 
-### Video Gallery
+### ⭐ Video Gallery
 Carousel of videos! 
 - Auto slider
 - You can also drag and scroll the videos
@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/54144759/125278695-ab7d8f00-e330-11eb-
 <hr>
 
 
-### Image Gallery
+### ⭐ Image Gallery
 Carousel of images with a main showcase area!
 - You can use arrow keys to navigate through images
 - You can also scroll through the images
@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/54144759/125280984-52fbc100-e333-11eb-
 <hr>
 
 
-### Review Cards
+### ⭐ Review Cards
 Carousel of customer reviews!
 - The review you hover on will be scaled high than others
 - You can navigate through reviews using round buttons at the bottom.
@@ -82,7 +82,7 @@ https://user-images.githubusercontent.com/54144759/125281243-9e15d400-e333-11eb-
 <hr>
 
 
-### Hamburger Menu
+### ⭐ Hamburger Menu
 You will find the navigation links here!
 - When you click on area other than the nav menu, the menu will close automatically.
 - Whenever you navigate through the menu, the menu will close.
