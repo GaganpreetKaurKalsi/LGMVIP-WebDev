@@ -30,9 +30,11 @@ function toggleHam(e) {
   const a = document.querySelectorAll(".nav-container ul li a");
   const hamburger = document.querySelector(".hamburger");
   if (!menuOpen && hamburger.contains(e.target)) {
+    console.log("Opening Menu")
     openMenu()
   }
   else if (menuOpen && !ul.contains(e.target)) {
+    console.log("Closing Menu")
     closeMenu()
   }
   else{
@@ -43,7 +45,8 @@ window.addEventListener("click",toggleHam)
 
 document.querySelectorAll('.nav-container ul li a').forEach((a) => {
   a.addEventListener("click", () => {
-    if(window.innerWidth<=768)
+    if (window.innerWidth <= 768)
+      console.log("Closing Menu for small device")
       closeMenu()
   })
 })
