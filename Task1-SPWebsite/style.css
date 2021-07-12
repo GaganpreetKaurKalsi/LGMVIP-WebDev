@@ -1126,6 +1126,9 @@ input::placeholder, textarea::placeholder{
     margin : 20px auto;
   }
 }
+
+
+
 @media (max-width: 992px){
 
   /* Nav */
@@ -1169,6 +1172,9 @@ input::placeholder, textarea::placeholder{
     max-width : 690px;
   }
 }
+
+
+
 
 @media (max-width: 768px){
 
@@ -1336,6 +1342,8 @@ input::placeholder, textarea::placeholder{
     margin-top : 0;
   } 
 }
+
+
 
 @media (max-width: 576px){
 
