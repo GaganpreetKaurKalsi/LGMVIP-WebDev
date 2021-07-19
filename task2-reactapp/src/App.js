@@ -11,7 +11,6 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [page, setPage] = useState({ currPage: 1, max_Page: 1 });
   const userDataPresent = userData.length !== 0;
-  // const fetched = false
 
   const getUserData = async currPage => {
     if (userData.length !== 0 && currPage === 1) {
@@ -23,7 +22,6 @@ function App() {
 
     setIsLoading(false);
     setUserData([...userData, ...users.data]);
-    // console.log(userData.consists(users.data))
   };
 
   return (
