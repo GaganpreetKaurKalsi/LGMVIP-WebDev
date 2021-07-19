@@ -1,13 +1,14 @@
 import React from 'react';
+import { Nav } from './Navbar.styled';
 
 const Navbar = ({ getUserData }) => 
 (
-    <div className="nav-bar d-flex justify-space">
-      <div className="logo">The Cakesmith</div>
-      <button className = "get-user-btn" type="button" onClick={() => getUserData(1)}>
+    <Nav className="nav-bar d-flex justify-space">
+      <div className="logo">User Lobby</div>
+      <button className = "btn get-user-btn" type="button" onClick={() => getUserData(1)}>
         Get Users
       </button>
-    </div>
+    </Nav>
   );
 
 

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Festive&family=Merriweather&family=Oswald&family=Roboto+Condensed&family=Ubuntu&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Merriweather&family=Oswald&family=Roboto+Condensed&family=Ubuntu&display=swap');
 
 body {
   margin: 0;
@@ -7,8 +7,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "Ubuntu", sans-serif;
-  background-color : #E5E7EB;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #F1F5F9;
 }
 
 code {
@@ -16,39 +16,30 @@ code {
     monospace;
 }
 
-.nav-bar{
-  padding : 1rem 3rem;
-  font-size : 20px;
-}
-.nav-bar .logo{
-  font-weight : 700;
-  font-family: "Festive", cursive;
-}
-.nav-bar .get-user-btn{
-  border : 2px solid;
-}
-
-.d-flex{
+.d-flex {
   display: flex;
   flex-wrap: wrap;
 }
 
-.justify-space{
+.justify-space {
   justify-content: space-between;
 }
 
-.grid{
-  max-width : 900px;
-  width : 90%;
-    margin : 20px auto;
+.grid {
+  background-color: #F1F5F9;
+  padding : 50px 0px;
 }
-.center{
+
+.center {
   text-align: center;
   justify-content: center;
 }
-.user-card{
-  width : 200px;
-  height : 300px;
-  border : 1px solid;
-  margin : 20px;
+
+.size-20 {
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.mt-2 {
+  margin-top: 2rem;
 }
