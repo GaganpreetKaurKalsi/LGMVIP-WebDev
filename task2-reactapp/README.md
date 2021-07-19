@@ -1,4 +1,4 @@
-# Get Users App
+# User Lobby
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6d0708a8-2ec4-4b85-91a3-05aec9f16020/deploy-status)](https://app.netlify.com/sites/getusers-react/deploys)
 ![GitHub forks](https://img.shields.io/github/forks/GaganpreetKaurKalsi/LGMVIP-WebDev?style=social)
@@ -31,6 +31,14 @@
 
 ## 📌 Link to Portfolio 
 ### https://gaganpreetkaurkalsi.netlify.app/
+
+<br>
+
+## 📌 Demo Video
+
+
+https://user-images.githubusercontent.com/54144759/126186157-a147859c-9569-4118-8a2a-f09d7d04423a.mp4
+
 
 
 <br>
